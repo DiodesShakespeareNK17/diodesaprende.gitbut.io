@@ -1,0 +1,40 @@
+body
+{
+    font-family:'Franklin Gothic Medium';
+    background-color:rgb(240, 240, 238);
+}
+
+img
+{ 
+    float: right;
+  border-left: 350x;
+  padding: 0 30 0 0;
+  translate: 30px;
+  border: 100px;
+  font-size: 150px;
+
+    
+}
+p.te1
+{
+    font-size: 150px;
+    text-align-last: 38px;
+
+}
+a
+{
+    color: black;
+    margin: 30px;
+    font-size: 20px;
+    text-decoration: none
+}
+
+img.ima
+{
+    float: left;
+    height: 40px;
+}
+
+
+
+
